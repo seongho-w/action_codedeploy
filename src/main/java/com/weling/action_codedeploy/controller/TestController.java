@@ -17,4 +17,9 @@ public class TestController {
         return testStr;
     }
 
+    @GetMapping("/signup")
+    public void signup(){
+
+    }
+
 }
