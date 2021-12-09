@@ -1,9 +1,10 @@
 package com.weling.action_codedeploy.controller;
 
 
-import com.weling.we_are_traveling_java.dto.SignupRequestDto;
-import com.weling.we_are_traveling_java.repository.UserRepository;
-import com.weling.we_are_traveling_java.service.UserService;
+
+import com.weling.action_codedeploy.dto.SignupRequestDto;
+import com.weling.action_codedeploy.repository.UserRepository;
+import com.weling.action_codedeploy.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;

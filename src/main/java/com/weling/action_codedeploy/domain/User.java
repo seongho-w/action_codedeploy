@@ -1,4 +1,4 @@
-package com.weling.action_codedeploy.dto.domain;
+package com.weling.action_codedeploy.domain;
 
 
 import lombok.Getter;

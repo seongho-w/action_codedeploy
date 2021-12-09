@@ -1,6 +1,6 @@
 package com.weling.action_codedeploy.security;
 
-import com.weling.action_codedeploy.dto.domain.User;
+import com.weling.action_codedeploy.domain.User;
 import com.weling.we_are_traveling_java.domain.User;
 import com.weling.we_are_traveling_java.domain.UserRole;
 import org.springframework.security.core.GrantedAuthority;

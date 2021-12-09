@@ -1,7 +1,7 @@
 package com.weling.action_codedeploy.repository;
 
 
-import com.weling.action_codedeploy.dto.domain.User;
+import com.weling.action_codedeploy.domain.User;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.Optional;

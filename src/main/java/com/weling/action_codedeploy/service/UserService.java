@@ -1,8 +1,8 @@
 package com.weling.action_codedeploy.service;
 
 import com.weling.action_codedeploy.dto.SignupRequestDto;
-import com.weling.action_codedeploy.dto.domain.User;
-import com.weling.action_codedeploy.dto.domain.UserRole;
+import com.weling.action_codedeploy.domain.User;
+import com.weling.action_codedeploy.domain.UserRole;
 import com.weling.action_codedeploy.repository.UserRepository;
 import com.weling.action_codedeploy.security.kakao.KakaoOAuth2;
 import com.weling.action_codedeploy.security.kakao.KakaoUserInfo;

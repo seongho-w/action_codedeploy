@@ -1,12 +1,13 @@
 package com.weling.action_codedeploy.controller;
 
 
-import com.weling.we_are_traveling_java.dto.JwtResponse;
-import com.weling.we_are_traveling_java.dto.SignupRequestDto;
-import com.weling.we_are_traveling_java.dto.SocialLoginDto;
-import com.weling.we_are_traveling_java.dto.UserDto;
-import com.weling.we_are_traveling_java.service.UserService;
-import com.weling.we_are_traveling_java.util.JwtTokenUtil;
+
+import com.weling.action_codedeploy.dto.JwtResponse;
+import com.weling.action_codedeploy.dto.SignupRequestDto;
+import com.weling.action_codedeploy.dto.SocialLoginDto;
+import com.weling.action_codedeploy.dto.UserDto;
+import com.weling.action_codedeploy.service.UserService;
+import com.weling.action_codedeploy.util.JwtTokenUtil;
 import lombok.RequiredArgsConstructor;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.authentication.AuthenticationManager;

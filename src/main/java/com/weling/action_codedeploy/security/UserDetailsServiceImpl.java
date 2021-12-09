@@ -1,7 +1,7 @@
 package com.weling.action_codedeploy.security;
 
 
-import com.weling.action_codedeploy.dto.domain.User;
+import com.weling.action_codedeploy.domain.User;
 import com.weling.action_codedeploy.repository.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.security.core.userdetails.UserDetails;
